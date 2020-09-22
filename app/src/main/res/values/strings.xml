@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyKuya</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="str_home">Home</string>
+    <string name="str_my_jobs">MyJobs</string>
+    <string name="str_support">Support</string>
+    <string name="str_news">News</string>
+    <string name="str_account">Account</string>
+</resources>
